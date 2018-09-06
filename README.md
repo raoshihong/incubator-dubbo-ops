@@ -31,5 +31,7 @@ Then you will find:
   * dubbo-monitor-simple-2.0.0-assembly.tar.gz in incubator-dubbo-ops\dubbo-monitor-simple\target directory. Unzip it you will find the shell scripts for starting or stopping monitor.
   * dubbo-registry-simple-2.0.0-assembly.tar.gz in incubator-dubbo-ops\dubbo-registry-simple\target directory. Unzip it you will find the shell scripts for starting or stopping registry.
 
-
+直接启动dubbo-admin下的DubboAdminApplication即可
+访问地址：http://localhost:7001
+默认的账号密码:root/root
 
